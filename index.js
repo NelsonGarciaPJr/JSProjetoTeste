@@ -6,3 +6,7 @@ turboLogger(
   "Eu criei um nova mensagem sem afetar a versão principal do sistema!",
   "darkgreen"
 );
+turboLogger(
+  "Contribuição de outro dev na branch principal antes do merge",
+  "orange"
+);
